@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shri</h1>
-<h3 align="center">A passionate programmer, tech artist & 3d artist</h3>
+<h3 align="center">A Passionate Programmer, Tech Artist & 3D Artist</h3>
 
 <p align="left"> <a href="https://twitter.com/shrirammoni" target="blank"><img src="https://img.shields.io/twitter/follow/shrirammoni?logo=twitter&style=for-the-badge" alt="shrirammoni" /></a> </p>
 
