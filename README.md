@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shrirammoni" target="blank"><img src="https://img.shields.io/twitter/follow/shrirammoni?logo=twitter&style=for-the-badge" alt="shrirammoni" /></a> </p>
 
-- 🌱 I’m currently learning **Godot, WPF, Maxscript**
+- 🌱 I’m currently learning **Monogame, WPF, Maxscript**
 
 - 💬 Ask me about **Maxscript, C#, WPF, Python, Blender, 3dsMax**
 
